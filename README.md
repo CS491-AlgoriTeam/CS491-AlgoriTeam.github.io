@@ -3,11 +3,13 @@
 
 ## Project Description
 
-This is a brief description of our project. You can provide details about the project's goals, objectives, and any other relevant information.
+
 
 ## Group Members
 
-- Member 1 - Role:
-- Member 2 - Role:
-- Member 3 - Role:
+- Tuğberk Dikmen, 21802480
+- Deniz Hayri Özay, 21803632
+- Mehmet Ali Öztürk, 21703425
+- Mete Arıkan, 21902316
+- Furkan Yıldırım, 21902514
   <!-- Add more members as needed -->
